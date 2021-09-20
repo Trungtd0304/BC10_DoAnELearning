@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  DOMAIN: 'http://movieapi.cyberlearn.vn/api',
+  DOMAIN: 'https://elearning0706.cybersoft.edu.vn/api',
   GP: 'GP07',
 };
 
